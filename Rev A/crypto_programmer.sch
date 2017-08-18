@@ -14358,16 +14358,10 @@ Positive Fixed Output 3.3V 250mA SOT-23A-3</description>
 <part name="R5" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" value="10.0K"/>
 <part name="3.3V3" library="KVB-supply" deviceset="3.3V" device=""/>
 <part name="GND4" library="KVB-supply" deviceset="GND" device=""/>
-<part name="U2" library="KVB-ICs" deviceset="MCP1703AT-3302E/CB" device="">
-<attribute name="NOTE" value="Trezor"/>
-</part>
+<part name="U2" library="KVB-ICs" deviceset="MCP1703AT-3302E/CB" device=""/>
 <part name="GND21" library="KVB-supply" deviceset="GND" device=""/>
-<part name="C14" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" value="1.0uF">
-<attribute name="NOTE" value="Trezor"/>
-</part>
-<part name="C15" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" value="1.0uF">
-<attribute name="NOTE" value="Trezor"/>
-</part>
+<part name="C14" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" value="1.0uF"/>
+<part name="C15" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" value="1.0uF"/>
 <part name="GND19" library="KVB-supply" deviceset="GND" device=""/>
 <part name="GND23" library="KVB-supply" deviceset="GND" device=""/>
 <part name="5.0V2" library="KVB-supply" deviceset="5.0V" device=""/>
@@ -14880,15 +14874,10 @@ Receptacle</text>
 <instance part="U2" gate="G$1" x="177.8" y="167.64" smashed="yes">
 <attribute name="NAME" x="177.8" y="168.148" size="1.778" layer="95"/>
 <attribute name="VALUE" x="190.5" y="149.86" size="1.778" layer="96"/>
-<attribute name="NOTE" x="177.8" y="167.64" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND21" gate="G$1" x="187.96" y="139.7"/>
-<instance part="C14" gate="G$1" x="162.56" y="157.48">
-<attribute name="NOTE" x="162.56" y="157.48" size="1.778" layer="96" display="off"/>
-</instance>
-<instance part="C15" gate="G$1" x="218.44" y="157.48">
-<attribute name="NOTE" x="218.44" y="157.48" size="1.778" layer="96" display="off"/>
-</instance>
+<instance part="C14" gate="G$1" x="162.56" y="157.48"/>
+<instance part="C15" gate="G$1" x="218.44" y="157.48"/>
 <instance part="GND19" gate="G$1" x="162.56" y="147.32"/>
 <instance part="GND23" gate="G$1" x="218.44" y="147.32"/>
 <instance part="5.0V2" gate="G$1" x="162.56" y="170.18"/>
