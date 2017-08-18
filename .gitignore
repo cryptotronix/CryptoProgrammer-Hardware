@@ -39,6 +39,14 @@ eagle.epf
 
 *.eps
 
+# Source/Log files
+*.scr
+*.log
+
 # file locks introduced since 7.x
 *.lck
+
+# Archives
+*.zip
+*.rar
 

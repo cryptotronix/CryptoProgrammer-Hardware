@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\svn\devkits\SAML21_Xplained_Pro\02_Documentation\Release_Files\Atmel-42405-SAML21-Xplained-Pro_User-Guide\Revision 4\CAD Source\SAML21_Xplained_Pro.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=saml21_xplained_pro-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=saml21_xplained_pro-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl
