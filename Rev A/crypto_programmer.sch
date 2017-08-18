@@ -14320,7 +14320,7 @@ Positive Fixed Output 3.3V 250mA SOT-23A-3</description>
 <part name="GND17" library="KVB-supply" deviceset="GND" device=""/>
 <part name="C10" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0805" value="10uF"/>
 <part name="GND16" library="KVB-supply" deviceset="GND" device=""/>
-<part name="C6" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" value="1uF"/>
+<part name="C6" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" value="1.0uF"/>
 <part name="L2" library="KVB-inductors" deviceset="L" device="0603" value="DNP"/>
 <part name="C12" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0805" value="10uF"/>
 <part name="GND18" library="KVB-supply" deviceset="GND" device=""/>
